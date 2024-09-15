@@ -1,5 +1,5 @@
-Windows ve Telemetri mi? Kapat gitsin!
+Windows'un telemetrisi, arkada verilerini toplayıp bilgilerini yavaşlatmasına izin verme!
 
-Arkada gereksiz RAM harcayan Windows Defender? Kapat.
+Windows'un aktifleştirilmemişse dert etme, arka planı değiştirebilir ve cihazını karanlık tema yapabilirsin.
 
-Windows fontlarını değiştir, istediğin gibi takıl.
+Windows fontunu istediğin gibi değiş, istediğin özellikleri kapat. Kontrol sende.
